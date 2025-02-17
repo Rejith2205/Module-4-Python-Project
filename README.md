@@ -3,13 +3,13 @@
 # **ABC Basketball Company Comprehensive Employee Analysis**
 ## *The csv file contains the details of the different Basketball team members. we have to analyse the data, based on the csv file extracted*.
 ![image](https://github.com/user-attachments/assets/05c6cdbd-bed6-4495-acb9-c348a3019b97)
-**In the project document it has informed that the column which contains details of the 'Height' need to be replaced with a new value. Hence we have deleted the column with the heading 'Height'. The data which has popluated in the 'Height'column was the date. The new column 'Height' needs to be created with random number from 150 to 180**
+## **In the project document it has informed that the column which contains details of the 'Height' need to be replaced with a new value. Hence we have deleted the column with the heading 'Height'. The data which has popluated in the 'Height'column was the date. The new column 'Height' needs to be created with random number from 150 to 180**
 ![image](https://github.com/user-attachments/assets/06990d30-0b97-4c5f-b601-ef6908299599)
 ![image](https://github.com/user-attachments/assets/4ba7ba25-c5e9-4f7b-9a31-b9ec296d6289)
 **Keeping a backup copy of our CSV file before making any changes is a great practice. This ensures that we can always revert to the original data
 if something goes wrong during data processing or if we need to compare changes later.**
 ![image](https://github.com/user-attachments/assets/b714e096-499c-463e-a2b5-02f0810be593)
-*When handling missing data, it is essential to identify the numeric and categorical fields. This is because the approach to managing missing data varies depending on the type of data.*  
+**When handling missing data, it is essential to identify the numeric and categorical fields. This is because the approach to managing missing data varies depending on the type of data.**  
 
 **Below is the procedure to identify them:**  
  
