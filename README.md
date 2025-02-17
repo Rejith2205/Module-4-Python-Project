@@ -367,7 +367,7 @@ one row as duplicate only if the columns mentioned in the  subset parameter valu
 **Guards (SG and PG) also receive substantial investments, highlighting the importance of backcourt players in dictating the tempo, facilitating offense, and scoring from the perimeter.**
 
 **These insights provide a deeper understanding of the strategies and priorities of various teams based on their salary expenditures.** 
-
+# *5. Investigate if there's any correlation between age and salary, and represent it visually.* 
 ![image](https://github.com/user-attachments/assets/65bda7c7-a748-4b94-ae47-1054d5c78554)
 ![image](https://github.com/user-attachments/assets/22b4dfec-d94f-43ea-bc62-40bb21e37d6e)
 ![image](https://github.com/user-attachments/assets/4ddca8dd-4978-4072-857e-5294e5105be9)
