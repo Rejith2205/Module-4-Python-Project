@@ -3,45 +3,45 @@
 # **ABC Basketball Company Comprehensive Employee Analysis**
 ## *The csv file contains the details of the different Basketball team members. we have to analyse the data, based on the csv file extracted*.
 ![image](https://github.com/user-attachments/assets/05c6cdbd-bed6-4495-acb9-c348a3019b97)
-*In the project document it has informed that the column which contains details of the 'Height' need to be replaced with a new value. Hence we have deleted the column with the heading 'Height'. The data which has popluated in the 'Height'column was the date. The new column 'Height' needs to be created with random number from 150 to 180*
+**In the project document it has informed that the column which contains details of the 'Height' need to be replaced with a new value. Hence we have deleted the column with the heading 'Height'. The data which has popluated in the 'Height'column was the date. The new column 'Height' needs to be created with random number from 150 to 180**
 ![image](https://github.com/user-attachments/assets/06990d30-0b97-4c5f-b601-ef6908299599)
 ![image](https://github.com/user-attachments/assets/4ba7ba25-c5e9-4f7b-9a31-b9ec296d6289)
-*Keeping a backup copy of our CSV file before making any changes is a great practice. This ensures that we can always revert to the original data
-if something goes wrong during data processing or if we need to compare changes later.*
+**Keeping a backup copy of our CSV file before making any changes is a great practice. This ensures that we can always revert to the original data
+if something goes wrong during data processing or if we need to compare changes later.**
 ![image](https://github.com/user-attachments/assets/b714e096-499c-463e-a2b5-02f0810be593)
 *When handling missing data, it is essential to identify the numeric and categorical fields. This is because the approach to managing missing data varies depending on the type of data.*  
 
-*Below is the procedure to identify them:*  
+**Below is the procedure to identify them:**  
  
-*Identify the Numerical columns and display the count of numerical columns with null values*  
+**Identify the Numerical columns and display the count of numerical columns with null values**  
 
-*Identify the Categorical columns and display the count of Categorical columns with null values*  
+**Identify the Categorical columns and display the count of Categorical columns with null values**  
 
-*Display the Df file to show the column which has missing values*
+**Display the Df file to show the column which has missing values**
 
 ![image](https://github.com/user-attachments/assets/85ce2384-d51e-4fc2-9cec-fe180afbd1dc)
 ![image](https://github.com/user-attachments/assets/83fa682e-9ee5-426a-93c3-57e165f1264f)
 
-*Procedure to update the numerical column with the mean value*
+**Procedure to update the numerical column with the mean value**
 
-*Procedure to update the Categorical columns with the Mode*  
+**Procedure to update the Categorical columns with the Mode** 
 
-*Display the number of records updated in numeric column*
+**Display the number of records updated in numeric column**
 
-*Display the number of records updated in categorical column*
+**Display the number of records updated in categorical column**
 
-*Display only the columns which has udated with the updated Values*
+**Display only the columns which has udated with the updated Values**
 
-*Display the Data frame with the updted values*  
+**Display the Data frame with the updted values** 
 
-*Save  the updated CSV file*
+**Save  the updated CSV file**
 ![image](https://github.com/user-attachments/assets/d641f5ff-ccdb-491f-9936-9882b10615eb)
 ![image](https://github.com/user-attachments/assets/ac64b405-1720-4e34-9a79-7b7555e8bdd0)
-*Remove the duplicates  from the dataframe as part of the data cleaning process*
+**Remove the duplicates  from the dataframe as part of the data cleaning process*
 
-*The [suebset] parameter specifies which columns to consider when identifying duplicate rows.
+**The [suebset] parameter specifies which columns to consider when identifying duplicate rows.
 Essentially, it tells pandas to look only at these specified columns to determine if a row is a duplicate. That means the pandas will consider 
-one row as duplicate only if the columns mentioned in the  subset parameter values are  same.*
+one row as duplicate only if the columns mentioned in the  subset parameter values are  same.**
 ![image](https://github.com/user-attachments/assets/483601a9-4121-4fef-8679-67b1377d7203)
 
 ![image](https://github.com/user-attachments/assets/3b466a81-b97c-48b7-be30-bb0f12132b3f)
